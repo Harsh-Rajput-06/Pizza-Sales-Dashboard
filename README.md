@@ -1,4 +1,5 @@
 Pizza Sales Performance Dashboard | Power BI
+
 - Project Overview
 This project presents an interactive Pizza Sales Performance Dashboard built using Power BI. The dashboard analyzes over 21,000 sales transactions to evaluate revenue trends, order behavior, time-based distribution, and category-level performance.
 The objective of this project is to transform raw transactional data into actionable business insights through KPI-driven reporting and data visualization.
@@ -47,9 +48,9 @@ The objective of this project is to transform raw transactional data into action
 3. Interact with slicers to explore dynamic insights.
 
 - Skills Demonstrated
-Data Modeling
-DAX Calculations
-KPI Design
-Business Intelligence Reporting
-Data Visualizatio
-Analytical Thinking
+1. Data Modeling
+2. DAX Calculations
+3. KPI Design
+4. Business Intelligence Reporting
+5. Data Visualization
+6. Analytical Thinking
